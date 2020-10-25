@@ -1,8 +1,8 @@
 c1
-A--this is master
-B--this is master
-C--this is master
+A--this is issue
+A--this is issue
+A--this is issue
 c2
-A--this is master
-B--this is master
-C--this is master
+A--this is issue
+A--this is issue
+A--this is issue
